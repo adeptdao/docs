@@ -39,7 +39,7 @@ Because there are no real successful DAO governance model in existance, the team
 
 ## Adept DAO Governance Model
 
-# Role Based Governance
+### Role Based Governance
 
 Loosely based on the concept of an [epistocracy](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan) where the votes of people who can prove their political knowledge carry more weight.
 
@@ -51,20 +51,20 @@ The overall objective of an RBG model is to achieve the best optimal outcome for
 
 When it comes to motions that are not role-specific but touch on different aspects of the different roles that are available within a DAO or are related to the general direction of the DAO then every member have the same vote weight.
 
-# Vote Weight Algorithm
+### Vote Weight Algorithm
 
 (More detail available in the future)
 
-# Roles
+### Roles
 
 A DAO may have the following roles:
 
 - Engineers
 - Designers
 
-# The Council
+### The Council
 
-The Council is established in regard situations the DAO need a private, first-mover advantage, comprised of representatives from each of the roles, with each role type electing their own representative to sit on the council. Every role within the DAO will have an elected council member. The council member will act as a voice for the role in which they represent.
+The Council is established in regard situations the DAO need a private, first-mover advantage. The Council comprised of representatives from each of the roles, with each role type electing their own representative to sit on the council. Every role within the DAO will have an elected council member. The council member will act as a voice for the role in which they represent.
 
 When it comes to motions that are not role-specific but touch on different aspects of the different roles that are available within a DAO or are related to the general direction of the DAO then the council is called upon where council representatives from each role can collectively vote on the best decision to make regarding this motion.
 
