@@ -25,29 +25,48 @@ Traditionally after obtaining a degree, people would seek employment within a co
 DAOs have the ability to fundamentally change the way in which people work and earn a living. The worker of tomorrow will be able to earn money by contributing to multiple DAOs, making use of their varied skill-set within a thriving ecosystem without borders and one that isn’t bound by time. This is the future of web3.
 DAOs will give individuals the opportunity to pursue multiple careers simultaneously in such a way that has never been done before. For example, Tom is a member of a DAO, his primary skills are photography so he regularly submits photos as part of community bounty, in exchange he is rewarded in tokens for that community. He also has an interest in programming but he’s still very much a beginner. He joins another DAO where he is able to make micro contributions and is able to earn tokens for that DAO also. Tom is an avid copywriter and regularly contributes copy to two other DAOs. He is able to do all of this at his own choosing. He gets paid on time without disputes as all of this is governed by [smart contracts](https://www.investopedia.com/terms/s/smart-contracts.asp).
 
-## Role Based Governance
+## The DAO Trilemma
+
+As a utizilzation of Blockchain technology, DAO governance model also have three problems have to address: Decentralization, Identity and Flexibility.
+
+Decentralization: Decentralization in term of DAO mean that rights and obligations is decentralized into the community. By decentralization, we can utilize most of the collective wisdom and provide the most incentives for community's participate in governance. At the same time, Full-Decentralized governance mean that DAO system will have no private, first-mover advantage in any choice outside of the DAO (outsiders can know about our motion, strategy and take action accordingly against that DAO)
+
+Identity: To prevent harmful vote benefit for a specific group of people conducting a raid (or DDOS attack) by create many fake addresses, identites, DAO governance model must ensure the vote process carry real intelligent of community members. At the same time, community members will have private concern if we do one address - one identity KYC.
+
+Flexibility: A DAO governance model must decide how much a vote process can change the network. It can be Full-Flexibility, give the vote process full authority on the system and it's history, and trade-off Security, in concern of some unforseenable attack on vote process can turn-over the whole system (Dfinity - Internet Computer Protocol case).
+
+Because there are no real successful DAO governance model in existance, the team is happy with any contribute indentifying possible DAO's problem.
+
+## Adept DAO Governance Model
+
+# Role Based Governance
 
 Loosely based on the concept of an [epistocracy](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan) where the votes of people who can prove their political knowledge carry more weight.
 
 Role Based Governance or RBG takes this concept one step further by applying it to other areas of expertise and not just political. A DAO is comprised of a number of members, each member having a primary area of expertise. When making decisions that will affect the DAO as a whole it is important for the overall success of the DAO that each member makes an informed decision for what they are about to vote for. Depending on the motion put forward members in the community that have roles with levels of expertise in relation to the motion will carry more weight than other members that don’t share that same level of expertise. 
 
+A motion has been put forward by the community to decide on the best technology stack to build out their DApp. In order to get the best possible outcome for this decision, it would make sense for the votes of the Engineers to carry more weight, since they would have more expertise in this realm. Similarly, if a motion that was designed specifically was put forward it would be highly optimized for the votes of the designers of the DAO to carry more weight. 
+
 The overall objective of an RBG model is to achieve the best optimal outcome for any decision being made by a DAO, in a scalable and democratic way. 
 
-### Scenario
+When it comes to motions that are not role-specific but touch on different aspects of the different roles that are available within a DAO or are related to the general direction of the DAO then every member have the same vote weight.
 
-A DAO has just formed with the following roles:
+# Vote Weight Algorithm
+
+(More detail available in the future)
+
+# Roles
+
+A DAO may have the following roles:
 
 - Engineers
 - Designers
 
-### The Council
+# The Council
 
-The Council is comprised of representatives from each of the roles, with each role type electing their own representative to sit on the council. Every role within the DAO will have an elected council member. The council member will act as a voice for the role in which they represent.
-
-A motion has been put forward by the community to decide on the best technology stack to build out their DApp. In order to get the best possible outcome for this decision, it would make sense for the votes of the Engineers to carry more weight, since they would have more expertise in this realm. Similarly, if a motion that was designed specifically was put forward it would be highly optimized for the votes of the designers of the DAO to carry more weight. 
+The Council is established in regard situations the DAO need a private, first-mover advantage, comprised of representatives from each of the roles, with each role type electing their own representative to sit on the council. Every role within the DAO will have an elected council member. The council member will act as a voice for the role in which they represent.
 
 When it comes to motions that are not role-specific but touch on different aspects of the different roles that are available within a DAO or are related to the general direction of the DAO then the council is called upon where council representatives from each role can collectively vote on the best decision to make regarding this motion.
-
 
 ## Technology
 
