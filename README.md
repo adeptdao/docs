@@ -102,3 +102,6 @@ If you have any ideas that you think will be useful and valuable to the communit
 * Design a governance model
 * Build an MVP of the platform for desktop and mobile.
 * Launch a beta round of testing for Adept community members.
+
+
+
