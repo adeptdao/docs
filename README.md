@@ -27,7 +27,7 @@ DAOs will give individuals the opportunity to pursue multiple careers simultaneo
 
 ## The DAO Trilemma
 
-As a utizilzation of Blockchain technology, DAO governance model also have three problems have to address: Decentralization, Identity and Flexibility.
+As a utilization of Blockchain technology, DAO governance model also have three problems have to address: Decentralization, Identity and Flexibility.
 
 Decentralization: Decentralization in term of DAO mean that rights and obligations is decentralized into the community. By decentralization, we can utilize most of the collective wisdom and provide the most incentives for community's participate in governance. At the same time, Full-Decentralized governance mean that DAO system will have no private, first-mover advantage in any choice outside of the DAO (outsiders can know about our motion, strategy and take action accordingly against that DAO)
 
