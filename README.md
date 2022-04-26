@@ -66,7 +66,7 @@ A DAO may have the following roles:
 
 The Council is established regarding situations the DAO needs a private, first-mover advantage. The Council is comprised of representatives from each of the roles, with each role type electing its representative to sit on the council. Every role within the DAO will have an elected council member. The council member will act as a voice for the role in which they represent.
 
-When it comes to motions that are not role-specific but touch on different aspects of the different roles that are available within a DAO or are related to the general direction of the DAO then the council is called upon where council representatives from each role can collectively vote on the best decision to make regarding this motion.
+When it comes to motions that need private, first-mover advantage of the DAO, the council is called upon where council representatives from each role can collectively vote on the best decision to make regarding this motion.
 
 ## Technology
 
