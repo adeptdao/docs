@@ -4,11 +4,11 @@
 
 ## Etymology
 
-The word “adept” is derived from the Latin word *Adeptus* which means “one who has attained”. Moreover, an **adept** can be described as an individual that has attained a specific level of knowledge, skill, or aptitude within a given field.
+The word “adept” is derived from the Latin word *adeptus* which means “one who has attained”. Moreover, an **adept** can be described as an individual that has attained a specific level of knowledge, skill, or aptitude within a given field.
 
 ## What is Adept?
 
-[Adept](https://adeptdao.org/) will be a platform that empowers digital creators to build their decentralized communities. As opposed to existing [DAO](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work) tooling platforms we will take a user-first approach providing users with all the necessary tools and components to build and manage their community. 
+[Adept](https://adeptdao.org/) will be a platform that empowers digital creators to build their own decentralized communities. As opposed to existing [DAO](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work) tooling platforms we will take a user-first approach providing users with all the necessary tools and components to build and manage their own community. 
 
 We will make no assumptions about the user's prior background knowledge or experience with web3, blockchain, or crypto. This is an imperative approach we have chosen to take in order to limit any potential barriers to entry for the everyday individual.
  
@@ -27,7 +27,7 @@ DAOs will give individuals the opportunity to pursue multiple careers simultaneo
 
 ## The DAO Trilemma
 
-As an utilization of Blockchain technology, the DAO governance model also has three problems have to address: Decentralization, Identity, and Flexibility.
+As an utilization of Blockchain technology, the DAO governance model has three main problems to address: Decentralization, Identity, and Flexibility.
 
 Decentralization: Decentralization in terms of DAO means that rights and obligations are decentralized into the community. By decentralization, we can utilize most of the collective wisdom and provide the most incentives for the community's participation in governance. At the same time, Full-Decentralized governance means that the DAO system will have no private, first-mover advantage in any choice outside of the DAO (outsiders can know about our motion, strategy and take action accordingly against that DAO)
 
@@ -45,11 +45,9 @@ Loosely based on the concept of an [epistocracy](https://www.vox.com/2018/7/23/1
 
 Role-Based Governance or RBG takes this concept one step further by applying it to other areas of expertise and not just politics. A DAO is comprised of several members, each member having a primary area of expertise. When making decisions that will affect the DAO as a whole it is important for the overall success of the DAO that each member makes an informed decision for what they are about to vote for. Depending on the motion put forward members in the community that has roles with levels of expertise related to the motion will carry more weight than other members that don’t share that same level of expertise. 
 
-A motion has been put forward by the community to decide on the best technology stack to build out their DApp. To get the best possible outcome for this decision, it would make sense for the votes of the Engineers to carry more weight, since they would have more expertise in this realm. Similarly, if a motion that was designed specifically was put forward it would be highly optimized for the votes of the designers of the DAO to carry more weight. 
+For example, a motion has been put forward by the community to decide on the best technology stack to build out their DApp. To get the best possible outcome for this decision, it would make sense for the votes of the Engineers to carry more weight, since they would have more expertise in this realm.
 
 The overall objective of an RBG model is to achieve the best optimal outcome for any decision being made by a DAO, in a scalable and democratic way. 
-
-When it comes to motions that are not role-specific but touch on different aspects of the different roles that are available within a DAO or are related to the general direction of the DAO then every member has the same vote weight.
 
 ### Vote Weight Algorithm
 
@@ -64,7 +62,7 @@ A DAO may have the following roles:
 
 ### The Council
 
-The Council is established regarding situations the DAO needs a private, first-mover advantage. The Council is comprised of representatives from each of the roles, with each role type electing its representative to sit on the council. Every role within the DAO will have an elected council member. The council member will act as a voice for the role in which they represent.
+The Council is comprised of representatives from each of the roles, with each role type electing its representative to sit on the council. Every role within the DAO will have an elected council member. The council member will act as a voice for the role in which they represent.
 
 When it comes to motions that need private, first-mover advantage of the DAO, the council is called upon where council representatives from each role can collectively vote on the best decision to make regarding this motion.
 
