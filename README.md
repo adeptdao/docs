@@ -101,5 +101,7 @@ If you have any ideas that you think will be useful and valuable to the communit
 * Build an MVP of the platform for desktop and mobile.
 * Launch a beta round of testing for Adept community members.
 
+## License
 
+Adept DAO is open-sourced software license un the [MIT license](https://opensource.org/licenses/MIT).
 
