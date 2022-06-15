@@ -1,4 +1,4 @@
-![](banner.jpg)
+![](assets/logo.jpg)
 
 **NB:** This document is still very much a work in progress and constantly evolving. Please read the notes below to find out how to contribute.
 
